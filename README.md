@@ -1,2 +1,2 @@
-# n64-rom-archive
-A big collection of N64 game ROMs.
+# New Location:
+This repo is now hosted on Codeberg, (https://codeberg.org/n64-rom-archive/).
